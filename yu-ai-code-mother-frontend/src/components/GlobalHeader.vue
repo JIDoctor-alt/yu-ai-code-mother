@@ -87,6 +87,10 @@ const originItems = [
     label: h('a', { href: 'https://www.codefather.cn', target: '_blank' }, '编程导航'),
     title: '编程导航',
   },
+  { key: '/admin/test',
+    label: '测试页面',
+    title: '测试页面',
+  },
 ]
 
 // 过滤菜单项
